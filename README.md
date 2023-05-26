@@ -7,14 +7,10 @@
   - [osTicket: Post-Installation Configuration](https://github.com/Cyberking29/osTicket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/Cyberking29/osTicket-Lifecycle-intake-Through-Resolution)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cyberking29/activedirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cyberking29/Network-protocols-on-Azure)
+  
   
 
 <h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 [linkedin]: https://linkedin.com/in/anthony-nimfa-7349a091
