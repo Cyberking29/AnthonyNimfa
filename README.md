@@ -10,6 +10,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Cyberking29/activedirectory)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Cyberking29/Network-protocols-on-Azure)
   - [Building  DNS](https://github.com/Cyberking29/DNS)
+  - [Network-file-share-permissions](https://github.com/Cyberking29/Network-File-shares-and-Permissions)
   
   
 
