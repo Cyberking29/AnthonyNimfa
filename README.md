@@ -13,8 +13,15 @@
   - [Network-file-share-permissions](https://github.com/Cyberking29/Network-File-shares-and-Permissions)
 
 <h2> CyberSecurity Projects:</h2>
-
-
+<h2> # Building a SOC + Honeynet in Azure (Live Traffic)</h2> 
+ - [Azure simulating Real-World Cyber-Attacks]</br>
+- https://github.com/Cyberking29/Azure-Honey-Pot-SOC
+ 
+  
+  
+ ---
+  
+ <br />
   
   
 
