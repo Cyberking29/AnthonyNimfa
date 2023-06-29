@@ -14,9 +14,11 @@
 
 <h2> CyberSecurity Projects:</h2>
 <h2> # Building a SOC + Honeynet in Azure (Live Traffic)</h2> 
- <h4>[Simulating Real-World Cyber-Attacks in Microsoft Azure]</h4> 
-- https://github.com/Cyberking29/Azure-Honey-Pot-SOC
+<h4>[Simulating Real-World Cyber-Attacks in Microsoft Azure]</h4> 
+ - https://github.com/Cyberking29/Azure-Honey-Pot-SOC
+ <h2>KQL to monitor failed logon</h2>
  
+
   
   
  ---
