@@ -17,6 +17,8 @@
 <h4>[Simulating Real-World Cyber-Attacks in Microsoft Azure]</h4> 
  - https://github.com/Cyberking29/Azure-Honey-Pot-SOC
 <a href= "https://github.com/Cyberking29/KQL-to-monitor-failed-logs"></a> <h2>KQL to monitor failed logon </h2>
+- https://github.com/Cyberking29/KQL-to-monitor-failed-logs
+
 
 
 
