@@ -1,4 +1,4 @@
-<h1>Hi, I'm Anthony, an <a href="https://linkedin.com/in/anthony-nimfa-7349a091">IT Professional</a>☺</h1>
+<h1>Hi, I'm Anthony, an <a href="https://linkedin.com/in/anthony-nimfa-7349a091">Cyber Security Analyst</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
